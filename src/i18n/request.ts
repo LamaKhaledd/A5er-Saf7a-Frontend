@@ -14,17 +14,10 @@ export default getRequestConfig(async ({ requestLocale }) => {
     )
   ).default;
 
-  const dashboardMessages = (
-    await import(
-      `../../src/app/[locale]/dashboard/_lib/translations/${locale}.json`
-    )
-  ).default;
-
   return {
     locale,
     messages: {
       ...authMessages,
-      ...dashboardMessages,
     },
   };
 });

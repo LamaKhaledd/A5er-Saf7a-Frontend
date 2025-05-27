@@ -22,6 +22,11 @@
       "@/*": ["./src/*"],
       "@components*": ["./src/core/ui/components/*"],
       "@models/*": ["./src/core/models/*"],
+      "@authComponents/*": ["./src/app/[locale]/(auth)/_lib/components/*"],
+      "@auth/*": ["./src/app/[locale]/(auth)/*"],
+      "@hooks/*": ["./src/app/[locale]/(auth)/_lib/hooks/*"],
+      "@InputRenderer/*": ["./src/core/ui/components/inputs-renderer/*"],
+
 
     }
   },
