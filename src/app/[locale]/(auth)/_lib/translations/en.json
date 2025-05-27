@@ -1,0 +1,16 @@
+{
+
+    "Nav":{
+      "name": "A5er Saf7a Initial",
+    "navItems": {
+      "HomePage": "Home Page",
+      "About": "About Us",
+      "Contact": "Contact"
+    },
+    "NewBook": "Create New Book"
+    },
+
+    "Footer":{
+      "programmedBy": "© Lama Ibrahim & Shahad Jawabreh 2025 | Designed and programmed in "
+    }
+  }
