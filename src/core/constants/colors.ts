@@ -1,0 +1,21 @@
+export const THEME_COLORS = {
+  PRIMARY: "#D88C91",         
+  SECONDARY: "#8B9E7E",       
+  BACKGROUND: "#F5F4F2",     
+  ACCENT_LIGHT: "#F8D7DD",    
+  ACCENT_DARK: "#2F4234",    
+
+  TEXT_PRIMARY: "#2F4234",   
+  TEXT_SECONDARY: "#8B9E7E", 
+  TEXT_LIGHT: "#FFFFFF",
+
+  BUTTON_PRIMARY: "#D88C91",
+  BUTTON_SECONDARY: "#8B9E7E",
+
+  SUCCESS: "#8B9E7E",
+  DANGER: "#D88C91",
+  INFO: "#F8D7DD",
+
+  BORDER: "#E0DED9",
+  SHADOW: "rgba(0, 0, 0, 0.1)",
+};
